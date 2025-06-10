@@ -37,7 +37,7 @@ A static and visually appealing movie website built using **HTML5**, **CSS3**, a
 
 ## 📽️ Demo Video
 
-[🎬 Click here to watch the demo video](./video/demoRec.mp4)
+[🎬 Click here to watch the demo video](./video/videoRec.mp4)
 
 ---
 
